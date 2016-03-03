@@ -1,5 +1,5 @@
 NB. from Kohonen
-shift =: 4 : 'x |. !. (}:y) y'
+shift =: 4 : 'x |. !. ({:y) y'
 
 NB. unnormalised correlation ( inner product )
 corr =: +/ . *  
