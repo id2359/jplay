@@ -8,3 +8,5 @@ NB. interval correlation ( shift invariance)
 intcorr =: 4 : 0
 NB. to do 
 )
+
+NB. added some edits
